@@ -1,0 +1,10 @@
+/mirna
+/sldasyntetic
+__pycache__
+*.pdf
+*.csv
+*.pkl
+.ipynb_checkpoints
+syntetic/
+syntetic_key/
+train-*.txt

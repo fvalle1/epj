@@ -1,0 +1,5 @@
+outs:
+- md5: d7ba4c4ffd2f17c64d8bb14eba1fa5ab
+  size: 984978
+  path: trisbm.pkl
+  isexec: true

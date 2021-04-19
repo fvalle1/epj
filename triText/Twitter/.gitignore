@@ -1,0 +1,9 @@
+/samples
+!*.dvc
+.ipynb_checkpoints
+/sbmtm.pkl
+/trisbm.pkl
+/twitter_keyword.xml.gz
+/twitter.xml.gz
+twitter/
+twitter_key/

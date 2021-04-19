@@ -1,0 +1,13 @@
+aps-dataset-metadata-2020/
+.ipynb_checkpoints
+/aps_authors.xml.gz
+/aps_keyword.xml.gz
+/aps.xml.gz
+aps/
+aps_key/
+aps_zip/
+aps_auth/
+aps_authors_count/
+/nsbm.pkl
+/sbmtm.pkl
+/trisbm.pkl

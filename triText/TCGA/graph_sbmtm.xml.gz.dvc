@@ -1,0 +1,4 @@
+outs:
+- md5: d7205317320cc5a7b6bcb41265bf9462
+  size: 61231583
+  path: graph_sbmtm.xml.gz

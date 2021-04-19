@@ -1,0 +1,5 @@
+outs:
+- md5: 777225e2fcad035681f341e52ada9ed7
+  size: 82945
+  path: plos.xml.gz
+  isexec: true

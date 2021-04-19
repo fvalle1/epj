@@ -1,0 +1,5 @@
+outs:
+- md5: 9fd97342d69f1a53e769fac0c40424cd
+  size: 582883985
+  path: mainTable_all.csv
+  isexec: true

@@ -1,0 +1,4 @@
+outs:
+- md5: 1f2ab7ee1929d9f151c5947a25c938e0
+  size: 85708
+  path: cases.txt

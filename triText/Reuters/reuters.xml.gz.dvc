@@ -1,0 +1,4 @@
+outs:
+- md5: a374106d4c5ead78e9604a3ee5e354ff
+  size: 233651
+  path: reuters.xml.gz

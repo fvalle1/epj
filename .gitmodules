@@ -4,3 +4,6 @@
 [submodule "hSBM_Topicmodel"]
 	path = hSBM_Topicmodel
 	url = git@github.com:martingerlach/hSBM_Topicmodel
+[submodule "class-slda"]
+	path = class-slda
+	url = git@github.com:fvalle1/class-slda.git

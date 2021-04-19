@@ -1,0 +1,5 @@
+outs:
+- md5: 0228315520799d91746fb10cc8c825b1
+  size: 32731154
+  path: mainTable_mirna.csv
+  isexec: true
