@@ -1,0 +1,6 @@
+[submodule "trisbm"]
+	path = trisbm
+	url = git@github.com:fvalle1/trisbm.git
+[submodule "hSBM_Topicmodel"]
+	path = hSBM_Topicmodel
+	url = git@github.com:martingerlach/hSBM_Topicmodel
