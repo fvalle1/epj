@@ -12,3 +12,4 @@ tcga/
 tcga_key/
 tcga_cnv/
 /cases.txt
+/files.dat
