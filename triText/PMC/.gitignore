@@ -2,10 +2,8 @@ data/
 .ipynb_checkpoints
 /sbmtm.pkl
 /trisbm.pkl
-/plos_keyword.xml.gz
-/plos.xml.gz
-plos/
-plos_key/
+pmc/
+pmc_key/
 *.csv
 /pmc.xml.gz
 /pmc_keyword.xml.gz
