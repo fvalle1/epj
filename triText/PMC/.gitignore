@@ -7,3 +7,5 @@ data/
 plos/
 plos_key/
 *.csv
+/pmc.xml.gz
+/pmc_keyword.xml.gz
