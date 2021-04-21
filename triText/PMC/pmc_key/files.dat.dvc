@@ -1,0 +1,4 @@
+outs:
+- md5: 39ef319b642dfca73de7b0f6a383da6a
+  size: 20945
+  path: files.dat
