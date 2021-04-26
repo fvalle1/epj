@@ -11,3 +11,7 @@ aps_authors_count/
 /nsbm.pkl
 /sbmtm.pkl
 /trisbm.pkl
+/trisbm_auth.pkl
+/trisbm_zip.pkl
+/aps_auth.xml.gz
+/aps_zip.xml.gz
