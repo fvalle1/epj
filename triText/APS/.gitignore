@@ -15,3 +15,4 @@ aps_authors_count/
 /trisbm_zip.pkl
 /aps_auth.xml.gz
 /aps_zip.xml.gz
+*.jsonl
