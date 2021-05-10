@@ -1,0 +1,4 @@
+outs:
+- md5: dc96ffc41b19ed870b5eeb4b694da41a
+  size: 2480
+  path: scalings.csv
