@@ -7,4 +7,9 @@ __pycache__
 .ipynb_checkpoints
 syntetic/
 syntetic_key/
+trisbm/
+topsbm/
 train-*.txt
+/files.dat
+clustersizes.txt
+topicsizes.txt
