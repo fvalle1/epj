@@ -1,0 +1,4 @@
+outs:
+- md5: 7abdb79fb370dfa694ed0964ea8fa973
+  size: 88379
+  path: pmc_nauth.xml.gz

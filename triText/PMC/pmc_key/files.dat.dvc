@@ -2,4 +2,3 @@ outs:
 - md5: 78ad2392e39872d9d07e12e87f538e7c
   size: 8394
   path: files.dat
-  isexec: true

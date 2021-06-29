@@ -4,6 +4,12 @@ data/
 /trisbm.pkl
 pmc/
 pmc_key/
+pmc_nauth/
+pmc_tetra/
 *.csv
 /pmc.xml.gz
 /pmc_keyword.xml.gz
+/nauth.pkl
+/tetra.pkl
+/pmc_nauth.xml.gz
+/pmc_tetra.xml.gz
