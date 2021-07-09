@@ -1,0 +1,9 @@
+[submodule "trisbm"]
+	path = trisbm
+	url = git@github.com:fvalle1/trisbm
+[submodule "hSBM_Topicmodel"]
+	path = hSBM_Topicmodel
+	url = git@github.com:fvalle1/hSBM_Topicmodel
+[submodule "class-slda"]
+	path = class-slda
+	url = git@github.com:blei-lab/class-slda.git
