@@ -1,5 +1,0 @@
-outs:
-- md5: dcfec4978066bc4a7783be8bcc356a59
-  size: 117141
-  path: wikipedia_keyword.xml.gz
-  isexec: true
